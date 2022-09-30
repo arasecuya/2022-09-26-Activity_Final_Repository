@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
-public class Hash_map {
+public class Hash_Map {
     public static void main(String[]args){
         Character userChoice;
         try (Scanner input = new Scanner(System.in)) {
