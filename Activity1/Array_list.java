@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Arraylist {
+public class Array_list {
     public static void main(String[] args){
         
     ArrayList<Object> personalData = new ArrayList<Object>();

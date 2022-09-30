@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Hashset{
+public class Hash_set{
      public static void main(String [] args) {
  
     Set<String> hset=new HashSet<String>();  
