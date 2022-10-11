@@ -19,34 +19,34 @@ public class TrycatchActivity {
     //VariableType bagColor;
 
         Bag<String> p1 = new Bag<String>();
-        p1.setBag_Brand("Lilly"); 
-        p1.setBag_Color("Brown");
-        p1.setBag_Type("Dog");
-        Bag.add("\"" + p1.getBag_Brand() + "\"" + " She is a " + p1.getBag_Color() + " colored "+ p1.getBag_Type());
+        p1.setBag_Brand("Louis Vuitton"); 
+        p1.setBag_Color("White");
+        p1.setBag_Type("Duffel Bag");
+        Bag.add("\"" + p1.getBag_Brand() + "\"" + " It is a " + p1.getBag_Color() + " colored "+ p1.getBag_Type());
     
         Bag<String> p2 = new Bag<String>();
-        p2.setBag_Brand("Oreo"); 
-        p2.setBag_Color("Black and white");
-        p2.setBag_Type("Bird");
-        Bag.add("\"" + p2.getBag_Brand() + "\"" + " He is a" + p2.getBag_Color() + " colored "+ p2.getBag_Type());
+        p2.setBag_Brand("Hermes"); 
+        p2.setBag_Color("Black");
+        p2.setBag_Type("Shoulder Bag");
+        Bag.add("\"" + p2.getBag_Brand() + "\"" + " It is a" + p2.getBag_Color() + " colored "+ p2.getBag_Type());
 
         Bag<String> p3 = new Bag<String>();
-        p3.setBag_Brand("Thunder"); 
-        p3.setBag_Color("Gray");
-        p3.setBag_Type("Dog");
-        Bag.add("\"" + p3.getBag_Brand() + "\"" + " He is a" + p3.getBag_Color() + " colored "+ p3.getBag_Type());
+        p3.setBag_Brand("Chanel"); 
+        p3.setBag_Color("Dirty White");
+        p3.setBag_Type("Quilted Bag");
+        Bag.add("\"" + p3.getBag_Brand() + "\"" + " It is a" + p3.getBag_Color() + " colored "+ p3.getBag_Type());
    
         Bag<String> p4 = new Bag<String>();
-        p4.setBag_Brand("Rin"); 
-        p4.setBag_Color("white");
-        p4.setBag_Type("Cat");
-        Bag.add("\"" + p4.getBag_Brand() + "\"" + " She is a" + p4.getBag_Color() + " colored "+ p4.getBag_Type());
+        p4.setBag_Brand("Dior"); 
+        p4.setBag_Color("Gray");
+        p4.setBag_Type("Lady Dior");
+        Bag.add("\"" + p4.getBag_Brand() + "\"" + " It is a" + p4.getBag_Color() + " colored "+ p4.getBag_Type());
 
         Bag<String> p5 = new Bag<String>();
-        p5.setBag_Brand("Mooky"); 
-        p5.setBag_Color("white");
-        p5.setBag_Type("Hamster");
-        Bag.add("\"" + p5.getBag_Brand() + "\"" + " She is a" + p5.getBag_Color() + " colored "+ p5.getBag_Type()); 
+        p5.setBag_Brand("Gucci"); 
+        p5.setBag_Color("Brown");
+        p5.setBag_Type("Baguette Bag");
+        Bag.add("\"" + p5.getBag_Brand() + "\"" + " It is a" + p5.getBag_Color() + " colored "+ p5.getBag_Type()); 
 
 
         try {
